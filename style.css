@@ -2,7 +2,6 @@
     display: none;
 }
 body{
-    overflow-y: hidden;
     height:40rem;
     background: linear-gradient( to bottom, rgb(187, 187, 187), rgb(12, 12, 12));
     background-repeat: no-repeat;
