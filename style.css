@@ -1,4 +1,6 @@
-
+.hide{
+    display: none;
+}
 body{
     overflow-y: hidden;
     height:40rem;
