@@ -1,7 +1,7 @@
 {
     "name":"Charash",
     "short_name":"Charash",
-    "start_url":"/index.html",
+    "start_url":"/",
     "icons":[
         {
             "src": "icons/manifest-icon-192.maskable.png",
